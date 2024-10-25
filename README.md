@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Trew)](https://github.com/21Trew/github-readme-stats)
+
 <!--
 **21Trew/21Trew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

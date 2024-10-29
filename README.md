@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/d444909c-3c42-41e4-ac12-5bc0ea7b6f35)
+![github-header-image (1)](https://github.com/user-attachments/assets/efc8c5ea-59dd-45c0-9fd4-2b36faeb1999)
 
 <img src="https://github-profile-trophy.vercel.app/?username=21Trew&theme=dracula" />
 

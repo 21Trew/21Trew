@@ -1,18 +1,11 @@
-## Hi there 👋
+![github-header-image](https://github.com/user-attachments/assets/d444909c-3c42-41e4-ac12-5bc0ea7b6f35)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Trew)](https://github.com/21Trew/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=21Trew&theme=dracula" />
 
-<!--
-**21Trew/21Trew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=21Trew&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=21Trew&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=21Trew&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=21Trew&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=21Trew&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Telegram](https://img.shields.io/badge/Мой%20тг%20канал-Не%20кодом%20единым-blue?style=flat-square&logo=telegram)

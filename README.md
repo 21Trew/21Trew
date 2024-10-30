@@ -89,4 +89,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=21Trew&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=21Trew&theme=dracula)
 
-![Telegram](https://img.shields.io/badge/Мой%20тг%20канал-Не%20кодом%20единым-blue?style=flat-square&logo=telegram)
+
+
+## My Telegram Blog: [![Telegram](https://img.shields.io/badge/👨‍💻%20Не%20кодом%20единым%20🥇-blue?style=flat-square&logo=telegram)](https://t.me/lopatin_dev)
